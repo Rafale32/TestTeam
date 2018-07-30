@@ -8,5 +8,6 @@ public class asdfa {
 		int i = 123;
 		int aaaaaa = 11111;
 		int bb;
+		int sd;
 	}
 }
